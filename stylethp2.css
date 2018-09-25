@@ -1,0 +1,21 @@
+h1, h2, h3
+{
+	color: blue
+}
+p
+{
+	color: grey
+}
+em
+{
+	color: red
+}
+body
+{
+	background-color: black
+}
+*p
+{
+	font-size: 14px /*taille paragraphe 14pixels
+}
+
